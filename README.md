@@ -47,6 +47,7 @@ text, and any reserved-font-name terms.
 | `NotoSerif-Regular.ttf` | [notofonts/latin-greek-cyrillic](https://github.com/notofonts/latin-greek-cyrillic) | SIL OFL 1.1 |
 | `NotoSansTC-VariableFont_wght.ttf` | [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) | SIL OFL 1.1 |
 | `NotoSansSC-VariableFont_wght.ttf` | [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) | SIL OFL 1.1 |
+| `NotoSansHK-VariableFont_wght.ttf` | [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) | SIL OFL 1.1 |
 | `NotoSansJP-VariableFont_wght.ttf` | [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) | SIL OFL 1.1 |
 | `NotoSansKR-VariableFont_wght.ttf` | [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) | SIL OFL 1.1 |
 | `SourceHanSerif-Regular.ttf` | [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) | SIL OFL 1.1 |

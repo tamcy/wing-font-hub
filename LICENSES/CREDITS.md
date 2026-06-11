@@ -41,10 +41,11 @@ the up-to-date text from the upstream's own `OFL.txt` /
 * **Copyright:** Copyright © Google LLC and the Noto Project Authors.
 * **Reserved Font Name:** "Noto".
 
-## Noto Sans CJK (TC / SC / JP / KR — variable-weight)
+## Noto Sans CJK (TC / SC / HK / JP / KR — variable-weight)
 
 * **Files:** `NotoSansTC-VariableFont_wght.ttf`,
   `NotoSansSC-VariableFont_wght.ttf`,
+  `NotoSansHK-VariableFont_wght.ttf`,
   `NotoSansJP-VariableFont_wght.ttf`,
   `NotoSansKR-VariableFont_wght.ttf`
 * **Upstream:** <https://github.com/notofonts/noto-cjk>
